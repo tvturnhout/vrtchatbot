@@ -1,2 +1,0 @@
-# vrtchatbot
-FAQ Chatbot
